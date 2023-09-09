@@ -1,5 +1,5 @@
 #kannekanti
-This is for practice
+- This is for practice
 - 👋 Hi, I’m @kannekantisreehari
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
